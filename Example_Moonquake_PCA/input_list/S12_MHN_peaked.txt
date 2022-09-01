@@ -1,0 +1,15 @@
+../Example_data/S12.XA..MHN.1970.143.cut.raw_despike.resample,1920
+../Example_data/S12.XA..MHN.1970.252.cut.raw_despike.resample,1902.64
+../Example_data/S12.XA..MHN.1970.284.cut.raw_despike.resample,1905.96
+../Example_data/S12.XA..MHN.1974.151.cut.raw_despike.resample,1885.43
+../Example_data/S12.XA..MHN.1973.241.cut.raw_despike.resample,1850.57
+../Example_data/S12.XA..MHN.1970.201.cut.raw_despike.resample,1788.83
+../Example_data/S12.XA..MHN.1971.51.cut.raw_despike.resample,1862.04
+../Example_data/S12.XA..MHN.1970.334.cut.raw_despike.resample,1955.62
+../Example_data/S12.XA..MHN.1971.28.cut.raw_despike.resample,1831.09
+../Example_data/S12.XA..MHN.1969.344.cut.raw_despike.resample,1767.55
+../Example_data/S12.XA..MHN.1970.120.cut.raw_despike.resample,1825.66
+../Example_data/S12.XA..MHN.1970.89.cut.raw_despike.resample,1905.51
+../Example_data/S12.XA..MHN.1973.273.cut.raw_despike.resample,1926.34
+../Example_data/S12.XA..MHN.1971.216.cut.raw_despike.resample,1858.26
+../Example_data/S12.XA..MHN.1971.137.cut.raw_despike.resample,1828.68
