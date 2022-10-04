@@ -4,6 +4,8 @@ A simple tutorial to decompose example deep moonquake waveforms using the princi
 
 For full details please see Turner et al,. 2022
 
+Notebook of tutorial is in /Example_moonquake_PCA/lib
+
 ## Getting set up 
 
 ### conda enviroment 
