@@ -1,0 +1,20 @@
+Derived data for 'Stresses in the lunar interior: insights from slip directions in the A01 deep moonquake nest' By Alice Turner, Jessica Hawthorne and Matthew gaddes. 
+
+Contact: alice.turner@earth.ox.ac.uk
+----------------------
+
+This file contains example derived data from PCA of deep moonquake waveforms. 
+
+Contents of this file (all numpy arrays, which can be read in python using np.load)
+
+1. Principal components for each event at station s12 and s16 in peaked mode. Files follow the naming convention 'station_component_peaked_PCs'
+These files contain:
+	*-U.npy files The components from the singular value decomposition
+	*-S.npy The variance from the singular value decomposition
+	
+2. The unbiased principal component co-efficents (please see paper for details of how these are calculated). The files are contained within 'UNBIASED_MPRIME'. These arrays contain the weights for all events for all PCs. They follow the naming convention 'mprime_stationcomponet.npy'
+
+3. The ratios of the energy in the second principal component to the energy in the second principal component (please see paper for details of how these are calculated). These are contained within the file 'RATIOS' and follow the naming convention 'station_component_peaked_ratio.npy'
+
+
+
